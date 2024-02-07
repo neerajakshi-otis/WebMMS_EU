@@ -1,1 +1,1 @@
-# WebMMS_EU
+# WebMMS
